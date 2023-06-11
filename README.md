@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RayZhou920 (Ray).
 - 🌱 I’m currently learning Information Systems in Northeastern Univerisity Seattle.
-- 💞️ I’m currently preparing for the SDE summer intern in 2023.
+- 💞️ I’m currently looking for the SDE opportunies for New Grad.
 - 📫 How to reach me: zhou_ray@outlook.com.
 
 <!---
